@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Admin; 
+namespace App\Admin;
 
 class ActiveDeactive{
   public function __construct( ) {
